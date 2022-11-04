@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">NMedia</string>
     <string name="nmedia">NMedia</string>
+    <string name="greeting" translatable="false">Привет, это новая Нетология!</string>
+    <string name="views_number" translatable="false">10</string>
+    <string name="likes">10</string>
+    <string name="reposts">Кнопка для репостов</string>
+    <string name="views">Просмотры</string>
+    <string name="additional_options">additional options</string>
+    <string name="click_like">click like</string>
 </resources>
